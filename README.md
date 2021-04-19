@@ -2,5 +2,13 @@ Postgresql crud operation in golang.
 ### usage
 
 ```
-# start backend server: go run main.go
+# create Customer Database
+```
+```
+# create customer Table
+  with id , firstname , lastname , email , dateofbirth , mobilenumber
+```
+
+```
+# run go file: go run main.go
 ```
